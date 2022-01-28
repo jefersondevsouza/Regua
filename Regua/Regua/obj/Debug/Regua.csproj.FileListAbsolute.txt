@@ -1,0 +1,8 @@
+C:\Users\jsilveira\Desktop\Regua\Regua\bin\Debug\Regua.exe
+C:\Users\jsilveira\Desktop\Regua\Regua\bin\Debug\Regua.pdb
+C:\Users\jsilveira\Desktop\Regua\Regua\obj\Debug\Regua.csprojResolveAssemblyReference.cache
+C:\Users\jsilveira\Desktop\Regua\Regua\obj\Debug\Regua.Form1.resources
+C:\Users\jsilveira\Desktop\Regua\Regua\obj\Debug\Regua.Properties.Resources.resources
+C:\Users\jsilveira\Desktop\Regua\Regua\obj\Debug\Regua.csproj.GenerateResource.Cache
+C:\Users\jsilveira\Desktop\Regua\Regua\obj\Debug\Regua.exe
+C:\Users\jsilveira\Desktop\Regua\Regua\obj\Debug\Regua.pdb
